@@ -1,5 +1,4 @@
-import Image from 'next/image';
-import Link from 'next/link';
+
 import React from 'react';
 import amazonimg from '../../public/images/skills/amazon.png';
 import elev from '../../public/images/skills/12A98EF4-FD75-45DE-A69C-AB76AD0BFD78_1_201_a.jpeg';
