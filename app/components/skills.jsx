@@ -5,8 +5,8 @@ import Css from '../../public/images/skills/css.png';
 import Javascript from '../../public/images/skills/javascript.png';
 import ReactImg from '../../public/images/skills/react.png';
 import Tailwind from '../../public/images/skills/tailwind.png';
-import Mongo from '../../public/images/skills/Mongo.png';
-import Node from '../../public/images/skills/Node.png';
+import Mongo from '../../public/images/skills/mongo.png';
+import Node from '../../public/images/skills/node.png';
 import NextJS from '../../public/images/skills/nextjs.png';
 
 
