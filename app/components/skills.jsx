@@ -1,13 +1,13 @@
 import Image from 'next/image';
 import React from 'react';
-import Html from '/Users/nanthansnair/porto/public/images/skills/html.png';
-import Css from '/Users/nanthansnair/porto/public/images/skills/css.png';
-import Javascript from '/Users/nanthansnair/porto/public/images/skills/javascript.png';
-import ReactImg from '/Users/nanthansnair/porto/public/images/skills/react.png';
-import Tailwind from '/Users/nanthansnair/porto/public/images/skills/tailwind.png';
-import Mongo from '/Users/nanthansnair/porto/public/images/skills/Mongo.png';
-import Node from '/Users/nanthansnair/porto/public/images/skills/Node.png';
-import NextJS from '/Users/nanthansnair/porto/public/images/skills/nextjs.png'
+import Html from '/images/skills/html.png';
+import Css from '/images/skills/css.png';
+import Javascript from '/images/skills/javascript.png';
+import ReactImg from '/images/skills/react.png';
+import Tailwind from '/images/skills/tailwind.png';
+import Mongo from '/images/skills/Mongo.png';
+import Node from '/images/skills/Node.png';
+import NextJS from '/images/skills/nextjs.png';
 
 
 const Skills = () => {
