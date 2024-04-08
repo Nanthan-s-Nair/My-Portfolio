@@ -1,8 +1,8 @@
 import React from "react";
 import Link from "next/link";
 import Image from "next/image";
-import giticon from "/Users/nanthansnair/porto/public/images/skills/github-icon.svg";
-import linkin from "/Users/nanthansnair/porto/public/images/skills/linkedin-icon.svg";
+import giticon from '../../public/images/skills/github-icon.svg';
+import linkin from '../../public/images/skills/linkedin-icon.svg';
 
 const Footer = () => {
   return (
