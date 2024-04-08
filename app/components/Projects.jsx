@@ -1,10 +1,10 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import React from 'react';
-import amazonimg from '/Users/nanthansnair/porto/public/images/skills/amazon.png';
-import elev from '/Users/nanthansnair/porto/public/images/skills/12A98EF4-FD75-45DE-A69C-AB76AD0BFD78_1_201_a.jpeg';
-import flut from '/Users/nanthansnair/porto/public/images/skills/082ce6e7-8f38-4999-aba2-43b002620017-cover.png';
-import acc from '/Users/nanthansnair/porto/public/images/skills/car-crash-accident-side-impact-illustration-concept-in-cartoon-vector.jpg'
+import amazonimg from '../../public/images/skills/amazon.png';
+import elev from '../../public/images/skills/12A98EF4-FD75-45DE-A69C-AB76AD0BFD78_1_201_a.jpeg';
+import flut from '../../public/images/skills/082ce6e7-8f38-4999-aba2-43b002620017-cover.png';
+import acc from '../../public/images/skills/car-crash-accident-side-impact-illustration-concept-in-cartoon-vector.jpg';
 import ProjectItem from './ProjectItem';
 
 const Projects = () => {
@@ -27,23 +27,19 @@ const Projects = () => {
             backgroundImg={flut}
             projectUrl='https://github.com/Nanthan-s-Nair/Weather-app-flutter'
             tech='Flutter Dart'
-
           />
           <ProjectItem
             title='Smart Electronic Voting Machine'
             backgroundImg={elev}
             projectUrl='https://github.com/Nanthan-s-Nair/smart-electronic-voting-machine'
             tech='Arduino'
-
           />
           <ProjectItem
             title='Accident Severity Prediction Neural Network'
             backgroundImg={acc}
             projectUrl='https://github.com/Nanthan-s-Nair/accidentseverity'
             tech='keras'
-
           />
-          
         </div>
       </div>
     </div>
