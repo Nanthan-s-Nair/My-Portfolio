@@ -11,15 +11,11 @@ const Footer = () => {
         <span>Created By Nanthan😄</span>
         <p className="text-slate-600">contact @ <a href="mailto:nanthan.snair4@gmail.com" target="_blank" rel="noopener noreferrer">nanthan.snair4@gmail.com</a></p>
         <Link href="https://github.com/Nanthan-s-Nair" target="_blank" rel="noopener noreferrer">
-          <a>
             <Image src={giticon} alt="Github Icon" />
-          </a>
-        </Link>
-        <Link href="https://www.linkedin.com/in/nanthan-s-nair-0681b3278/" target="_blank" rel="noopener noreferrer">
-          <a>
+          </Link>
+          <Link href="https://www.linkedin.com/in/nanthan-s-nair-0681b3278/" target="_blank" rel="noopener noreferrer">
             <Image src={linkin} alt="Linkedin Icon" />
-          </a>
-        </Link>
+          </Link>
       </div>
     </footer>
   );
